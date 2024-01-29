@@ -1,0 +1,3 @@
+## DotConfig
+
+.config
